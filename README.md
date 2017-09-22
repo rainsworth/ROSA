@@ -1,0 +1,2 @@
+# ROSA
+Resources for Open Science in Astronomy (ROSA) aims to compile and tailor open science best practices from around the web into a kit for astronomers to work openly from proposal to publication. ROSA will be written for use by all research levels but its mission is to supply a single resource to senior researchers to best equip them to encourage early career scientists to practice open access/data/source - in order to successfully mentor the next generation of open science practitioners we also need to target those who advise them.
