@@ -76,13 +76,17 @@ I am also a [Mozilla Open Leader][link_mol] as part of Round 4 Cohort C (#RebelF
 
 ## Get involved! 
 
-This project relies on contributions from both the wider astrophysics community and open science practitioners/enthusiasts in order to benefit from diversity and range in input - there is no way that a single person can provide a comprehensive enough resource! It will also continuously evolve over time as people use it and more open science tools become available. Not only will the general kit grow over time, but it can also be adapted to suit the needs of different research fields and audiences.
+This project relies on contributions from both the wider astrophysics and open science communities in order to benefit from diversity and range in input - there is no way that a single person can provide a comprehensive enough resource! It will also continuously evolve over time as people use it and more open science tools become available. Not only will the general kit grow over time, but it can also be adapted to suit the needs of different research fields and audiences.
 
 ### Become a contributor
 
 What open access, open data and open source tools from around the web would be useful for a researcher to have at the very start of their career? How can we present this information to senior researchers, who may be less experienced with these tools, so they can promote open research practices to their students and research teams? 
 
 If you have ideas or suggestions for content for this project, please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](ROADMAP.md). Please note that by joining this project, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+
+We are also hosting a session at this year's [MozFest][link_mozfest] (October 27-28, 2017 in London!) where we will discuss and brainstorm what this kit should look like, and compile content for it. We will also test a prototype developed up until MozFest. You can see the session description in [this GitHub repo][link_session].
+
+
 
 
 <br> <br>
@@ -118,3 +122,5 @@ If you want to report a problem or make a suggestion, the easiest thing to do is
 [link_elife]: https://elifesciences.org/content/5/e16800
 [link_h2020]: http://ec.europa.eu/programmes/horizon2020/en/h2020-section/open-science-open-access
 [link_stemm]: https://github.com/KirstieJane/STEMMRoleModels
+[link_mozfest]: https://mozillafestival.org/
+[link_session]: https://github.com/MozillaFoundation/mozfest-program-2017/issues/582
