@@ -1,5 +1,7 @@
 # Resources for Open Science in Astronomy (ROSA)
 
+[![Join the chat at https://gitter.im/Resources-Open-Science-Astronomy/Lobby](https://badges.gitter.im/Resources-Open-Science-Astronomy/Lobby.svg)](https://gitter.im/Resources-Open-Science-Astronomy/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ***Encouraging researchers in astronomy, from early-career to senior  levels, to work openly by providing the why's and the how's in a single resource.***
 
 
