@@ -24,7 +24,9 @@ Below you will find our roadmap where you can investigate the issues that you ca
 	- [ ] [Astrotweeps](https://twitter.com/astrotweeps)
 	- [ ] [Astronomers Facebook Group](https://www.facebook.com/groups/123898011017097/) 
 	- [ ] Create simple email survey/poll about what researchers would like to request or suggest for the kit
-- [ ] Set up email account, gitter, etc. for project?
+- [x] Set up gitter for project
+- [ ] Establish acknowledgement system to empower contributors (see e.g. [kentcdodds/all-contributors
+](https://github.com/kentcdodds/all-contributors))
 
 
 #### October 2017
