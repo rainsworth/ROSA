@@ -101,7 +101,7 @@ Together, we change the culture of the astronomy community to be more collaborat
 
 ## Contact
 
-If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. You can also contact me by email (rachael [dot] ainsworth [at] manchester [dot] ac [dot] uk) or on Twitter ([@rachaelevelyn][link_rachaelevelyn]).
+If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. You can also contact me by email (rachael.ainsworth@manchester.ac.uk) or on Twitter ([@rachaelevelyn][link_rachaelevelyn]).
 
 
 
