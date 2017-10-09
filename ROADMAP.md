@@ -18,10 +18,10 @@ Below you will find our roadmap where you can investigate the issues that you ca
 	- [x] Write README.md (e.g. following [STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels))
 	- [x] Write CODE_OF_CONDUCT.md 
 	- [x] Write ROADMAP.md
-	- [ ] Write CONTRIBUTING.md
+	- [x] Write CONTRIBUTING.md
 - [ ] Draft contents for resource toolkit, i.e. what topics do we want the resource kit to cover?
 - [ ] Promote project to wider astronomy community via social media channels to attract contributors
-	- [ ] [Astrotweeps](https://twitter.com/astrotweeps)
+	- [x] [Astrotweeps](https://twitter.com/astrotweeps)
 	- [ ] [Astronomers Facebook Group](https://www.facebook.com/groups/123898011017097/) 
 	- [ ] Create simple email survey/poll about what researchers would like to request or suggest for the kit
 - [x] Set up gitter for project
