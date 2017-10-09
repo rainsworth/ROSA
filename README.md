@@ -86,7 +86,11 @@ What open access, open data and open source tools from around the web would be u
 
 If you have ideas or suggestions for content for this project, please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](ROADMAP.md). Please note that by joining this project, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-We are also hosting a session at this year's [MozFest][link_mozfest] (October 27-28, 2017 in London!) where we will discuss and brainstorm what this kit should look like, and compile content for it. We will also test a prototype developed up until MozFest. You can see the session description in [this GitHub repo][link_session].
+### MozFest
+
+Join us at the [Mozilla Festival](http://mozillafestival.org/) October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other - we will discuss and brainstorm what a kit like this should look like and compile content for it. Read more about our [session](https://github.com/MozillaFoundation/mozfest-program-2017/issues/582) and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
+
+<p align="center"><img src="https://user-images.githubusercontent.com/617994/31101135-5b414a02-a79a-11e7-9665-1a8db9ffd1e0.png" width="500"></p>
 
 
 
