@@ -39,9 +39,7 @@ Notice a mistake? Please file any bugs, requests, or questions in our [issue tra
 
 ## Communication channels
 
-Please use the gitter chat room below to join the community and discuss anything related to this project:
-
+If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. You can also contact me by email (rachael.ainsworth@manchester.ac.uk) or on Twitter ([@rachaelevelyn][link_rachaelevelyn]).
+You can also use the gitter chat room below to join the community and discuss anything related to this project:
 
 [![Join the chat at https://gitter.im/Resources-Open-Science-Astronomy/Lobby](https://badges.gitter.im/Resources-Open-Science-Astronomy/Lobby.svg)](https://gitter.im/Resources-Open-Science-Astronomy/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Feel free to email rachael.ainsworth@manchester.ac.uk with any questions/comments/suggestions/ideas/requests or to report unacceptable behavior.
