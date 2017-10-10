@@ -14,24 +14,23 @@ Below you will find our roadmap where you can investigate the issues that you ca
 
 #### September 2017
 
-- [ ] Set up GitHub repository for the project 
-	- [x] Write README.md (e.g. following [STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels))
+- [x] Set up GitHub repository for the project 
+	- [x] Write README.md 
 	- [x] Write CODE_OF_CONDUCT.md 
 	- [x] Write ROADMAP.md
 	- [x] Write CONTRIBUTING.md
-- [ ] Draft contents for resource toolkit, i.e. what topics do we want the resource kit to cover?
 - [ ] Promote project to wider astronomy community via social media channels to attract contributors
 	- [x] [Astrotweeps](https://twitter.com/astrotweeps)
 	- [ ] [Astronomers Facebook Group](https://www.facebook.com/groups/123898011017097/) 
 	- [ ] Create simple email survey/poll about what researchers would like to request or suggest for the kit
 - [x] Set up gitter for project
-- [ ] Establish acknowledgement system to empower contributors (see e.g. [kentcdodds/all-contributors
-](https://github.com/kentcdodds/all-contributors))
+- [ ] Establish acknowledgement system to empower contributors
 
 
 #### October 2017
 
-- [ ] Draft content on ***why*** you should research openly (e.g. benefits to both researchers and science) and break down perceived barriers (resource: Jon Tennant's [slides](https://figshare.com/articles/Barriers_to_Open_Science_for_junior_researchers/5383711) from [#OSF2017](http://www.opensciencefair.eu/))
+- [ ] Draft contents for resource toolkit, i.e. what topics do we want the resource kit to cover?
+- [ ] Draft content on ***why*** you should research openly (e.g. benefits to both researchers and science) and break down perceived barriers
 - [ ] Compile resources, tutorials, platforms, etc. for each of the open research pillars ([FOSTER](https://www.fosteropenscience.eu/) is a great place to start)
 - [ ] Begin tailoring for astronomy (e.g. for open access: how to publish a preprint to the [astro-ph arXiv](https://arxiv.org/archive/astro-ph))
 - [ ] Set up GitHub webpage as prototype
