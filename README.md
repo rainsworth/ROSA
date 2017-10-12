@@ -1,5 +1,9 @@
 # Resources for Open Science in Astronomy (ROSA)
 
+
+
+<img src="https://github.com/rainsworth/ROSA/blob/master/ROSA.png" align="right" width="500"> 
+
 ***Encouraging researchers in astronomy, from early-career to senior  levels, to work openly by providing the why's and the how's in a single resource.***
 
 
