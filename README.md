@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/rainsworth/ROSA/blob/master/ROSA.png" align="right" width="500"> 
+<img src="https://github.com/rainsworth/ROSA/blob/master/ROSA.png?raw=true" align="right" width="500"> 
 
 ***Encouraging researchers in astronomy, from early-career to senior  levels, to work openly by providing the why's and the how's in a single resource.***
 
@@ -69,13 +69,7 @@ I am Dr. Rachael Ainsworth, a Postdoctoral Research Associate and Open Science C
 
   
 
-<a href="https://mozilla.github.io/leadership-training/">
-  <img
-    src="https://github.com/mozilla/leadership-training/blob/gh-pages/img/moz-logo-white.png?raw=true"
-    align="right"
-    width=140
-  </img>
-</a>
+<a href="https://mozilla.github.io/leadership-training/"><img src="https://github.com/mozilla/leadership-training/blob/gh-pages/img/moz-logo-white.png?raw=true" align="right" width="140"></a>
 
 I am also a [Mozilla Open Leader][link_mol] as part of Round 4 Cohort C (#RebelFoxes!) which provides me with the encouragement, mentorship and training to get this project off the ground! You can read more about this round's Cohort and projects [here][link_molprojects].
 
