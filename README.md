@@ -112,7 +112,8 @@ If you want to report a problem or make a suggestion, the easiest thing to do is
 * **Milestone**: an event or state marking a specific stage in development on the project
 * **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
 
-(README.md template and Glossary by [@KirstieJane/STEMMRoleModels][link_stemm]).
+(README.md template and Glossary by [@KirstieJane/STEMMRoleModels][link_stemm])
+([Photo](https://burst.shopify.com/photos/man-woman-watch-eclipse) by: [Sarah Pflug](https://burst.shopify.com/@sarahpflugphoto))
 
 
 
