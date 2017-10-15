@@ -2,12 +2,14 @@
 
 
 
-<img src="https://github.com/rainsworth/ROSA/blob/master/ROSA.png?raw=true" align="right" width="500"> 
 
 ***Encouraging researchers in astronomy, from early-career to senior  levels, to work openly by providing the why's and the how's in a single resource.***
 
 
 [![Join the chat at https://gitter.im/Resources-Open-Science-Astronomy/Lobby](https://badges.gitter.im/Resources-Open-Science-Astronomy/Lobby.svg)](https://gitter.im/Resources-Open-Science-Astronomy/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+<p align="center"><img src="https://github.com/rainsworth/ROSA/blob/master/img/ROSA.png?raw=true"></p>
+
 
 
 ## Welcome!
