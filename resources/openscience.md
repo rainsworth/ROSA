@@ -35,6 +35,7 @@ To contribute to the list of resources or discussion on open source, please clic
 #### What are the benefits?
 
 * [How open science helps researchers succeed](https://elifesciences.org/articles/16800)
+* [Scooped! A very personal case for open science](https://datascience.nih.gov/scooped)
 * [Insert discussion point here]
 * [Insert discussion point here]
 * [Insert discussion point here]
@@ -51,9 +52,12 @@ List them here (feel free to include as long or short a description as you like 
 
 * [FOSTER Open Science](https://www.fosteropenscience.eu/)
 * [OpenUp Hub](https://www.openuphub.eu/)
-* [Open Science Massive Open Online Course (MOOC)](bit.ly/OpenSciMOOC)
+* [Open Science Massive Open Online Course (MOOC)](https://opensciencemooc.eu/)
 	* OpenScienceMOOC [Google Drive](https://drive.google.com/open?id=1KuTSECSYHXZmZX15GDjyD65pJ90eRMhHVEZ-1trsw30)
 	* OpenScienceMOOC [GitHub](https://github.com/OpenScienceMOOC)
+* [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) is an invaluable resource for content and [Gitbook](https://www.gitbook.com/) is a good format option for ROSA.
+* [Open Science Framework](https://osf.io/) for open workflow
+* [Reproducibility in Science](http://ropensci.github.io/reproducibility-guide/) - A Guide to enhancing reproducibility in scientific results and writing
 * [Insert resource here]
 * [Insert resource here]
 * [Insert resource here]
