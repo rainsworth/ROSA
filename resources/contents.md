@@ -5,7 +5,7 @@ Thank you for checking out the Resources for Open Science in Astronomy (ROSA) pr
 
 This is the draft Table of Contents for this project. For a while it will act as a list of topics and resources we want to include in our open science resource kit and eventually it will become more refined and tailored as we figure out how best to organise it. Feel free to suggest changes or add topics. If you would like to contribute resources or discussion, please do so on the associated topic pages ([open science](https://github.com/rainsworth/ROSA/blob/master/resources/openscience.md), [open access](https://github.com/rainsworth/ROSA/blob/master/resources/openaccess.md), [open data](https://github.com/rainsworth/ROSA/blob/master/resources/opendata.md), [open source](https://github.com/rainsworth/ROSA/blob/master/resources/opensource.md)) 
 
-<p align="center"><img src="https://github.com/rainsworth/ROSA/blob/master/ROSA.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/rainsworth/ROSA/blob/master/img/ROSA.png?raw=true" width="500"></p>
 
 
 ## Table of Contents for Astrophysics
