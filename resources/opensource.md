@@ -19,11 +19,18 @@ For example:
 List them here (feel free to include as long or short a description as you like and any links, or if you have further ideas for topics that fall under the umbrella of open source):
 
 * Topic: Writing good documentation 
+	* [guides.github.com/features/wikis](https://guides.github.com/features/wikis/)
+	* [github.com/PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
 * Topic: Where can you publish software papers?
+	* [arxiv.org/help/submit](https://arxiv.org/help/submit) - useful discussion -  [academia.stackexchange.com/questions/75325/why-do-people-publish-on-arxiv-instead-of-other-places](https://academia.stackexchange.com/questions/75325/why-do-people-publish-on-arxiv-instead-of-other-places)
+	* [researchgate.net](https://www.researchgate.net)
 * Topic: Licensing
 	* [choosealicense.com](https://choosealicense.com/)
+	* [tldrlegal.com](https://tldrlegal.com/)
 * Topic: Digital Object Identifiers (DOIs)
 * Topic: Version Control (e.g. Git)
+	* [git-scm.com/about](https://git-scm.com/about)
+	* [git-scm.com/docs](https://git-scm.com/docs)
 * Topic: Collaborative coding
 	* [GitHub](https://github.com/)
 	* [Bitbucket](http://bitbucket.org/)

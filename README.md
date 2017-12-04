@@ -1,21 +1,17 @@
+<img src="https://github.com/rainsworth/ROSA/blob/gh-pages/logo/Logo_2.png?raw=true" width="200">
+
 # Resources for Open Science in Astronomy (ROSA)
-
-
-
 
 ***Encouraging researchers in astronomy, from early-career to senior  levels, to work openly by providing the why's and the how's in a single resource.***
 
 
 [![Join the chat at https://gitter.im/Resources-Open-Science-Astronomy/Lobby](https://badges.gitter.im/Resources-Open-Science-Astronomy/Lobby.svg)](https://gitter.im/Resources-Open-Science-Astronomy/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<p align="center"><img src="https://github.com/rainsworth/ROSA/blob/master/img/ROSA.png?raw=true"></p>
-
-
 
 ## Welcome!
 
 
-Thank you for visiting the Resources for Open Science in Astronomy (ROSA) project repository! (We love acronyms in astronomy.) ROSA aims to compile and tailor open science best practices from around the web into a kit for astronomers to work openly from proposal to publication, but can be adapted for use by any field! Just change the 'A' :wink:
+Thank you for visiting the Resources for Open Science in Astronomy (ROSA) project repository! (We love acronyms in astronomy.) ROSA aims to compile and tailor open science best practices from around the web into a kit for astronomers to work openly from proposal to publication, but can be adapted for use by any field - just change the 'A'!
 
 Here you will find information about the project and how to get involved!
 
@@ -101,7 +97,7 @@ Together, we change the culture of the astronomy community to be more collaborat
 
 ## Contact
 
-If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. You can also contact me by email (rachael.ainsworth@manchester.ac.uk) or on Twitter ([@rachaelevelyn][link_rachaelevelyn]).
+The easiest way to get involved is to join the conversation in our [Gitter chat room](https://gitter.im/Resources-Open-Science-Astronomy/Lobby)! If you want to directly contribute to this project, make a suggestion or report a problem, [open an issue](../../issues) within this GitHub repository. You can also contact me by email (rachael.ainsworth@manchester.ac.uk) or on Twitter ([@rachaelevelyn][link_rachaelevelyn]).
 
 
 
@@ -115,7 +111,7 @@ If you want to report a problem or make a suggestion, the easiest thing to do is
 * **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
 
 (README.md template and Glossary by [@KirstieJane/STEMMRoleModels][link_stemm])
-([Photo](https://burst.shopify.com/photos/man-woman-watch-eclipse) by: [Sarah Pflug](https://burst.shopify.com/@sarahpflugphoto))
+(Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto))
 
 
 
