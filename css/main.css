@@ -1,8 +1,8 @@
 .hero-unit {
-  background-image: url("../img/ROSA2.png");
+  background-image: url("../img/ROSA3.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
   background-color: #175289;
   text-align: center;
 }
