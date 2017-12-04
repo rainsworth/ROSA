@@ -18,12 +18,12 @@ layout: default
     </blockquote>
     </div>
   {% endif %}
-    <!--<div class="col-sm-4">
+    <div class="col-sm-4">
       {% if page.time %} <time>{{page.time}}</time>{% endif %}
       <a target="_blank" class="suggest-changes" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Suggest changes</a>
-    </div> -->
+    </div>
   </div>
-  <!-- {% if page.format or page.prereq or page.materials %}
+   {% if page.format or page.prereq or page.materials %}
   <div class="row p-y-1">
     <div class="col-sm-4">
       {% if page.format %}
@@ -42,7 +42,7 @@ layout: default
       <h5>Materials</h5>
       {{ page.materials | markdownify }}
       {% endif %}
-    </div> -->
+    </div>
   </div>
   {% endif %}
 </div>
