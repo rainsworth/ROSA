@@ -33,7 +33,7 @@ ol.toc {
 }
 
 h3 {
-  color: #4383bf;
+  color: #c0c0c0;
   font-weight: 200;
   margin-top: 3rem;
   margin-bottom: 2rem;
@@ -161,7 +161,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar {
   position: relative;
-  background-color: #4383bf;
+  background-color: #c0c0c0;
   position: relative;
   height: auto;
   color: #fff;
@@ -419,7 +419,7 @@ blockquote {
   line-height: 2.2rem;
   font-size: 1.25rem;
   border-left: 2px solid rgba(67, 131, 191, 0.3);
-  color: #4383bf;
+  color: #c0c0c0;
 }
 
 body ul, body ol {
@@ -460,7 +460,7 @@ td, th {
 
 a.btn {
   border: none;
-  background: #4383bf;
+  background: #c0c0c0;
   border-bottom: solid 2px #3875a8;
   color: #fff;
   transition: background 0.2s ease-in-out;
