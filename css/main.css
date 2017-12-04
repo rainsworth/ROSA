@@ -33,7 +33,7 @@ ol.toc {
 }
 
 h3 {
-  color: #c0c0c0;
+  color: #4383bf;
   font-weight: 200;
   margin-top: 3rem;
   margin-bottom: 2rem;
@@ -161,10 +161,10 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar {
   position: relative;
-  background-color: #c0c0c0;
+  background-color: #ffffff;
   position: relative;
   height: auto;
-  color: #fff;
+  color: #000000;
   font-size: 1rem;
   padding: 0;
 }
@@ -265,7 +265,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #919191;
+  background-color: #ffffff;
   transition: background-color 3ms;
 }
 
@@ -275,7 +275,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #5e5e5e;
+  background-color: #ffffff;
 }
 
 .sidebar-menu strong {
@@ -419,7 +419,7 @@ blockquote {
   line-height: 2.2rem;
   font-size: 1.25rem;
   border-left: 2px solid rgba(67, 131, 191, 0.3);
-  color: #c0c0c0;
+  color: #4383bf;
 }
 
 body ul, body ol {
@@ -460,7 +460,7 @@ td, th {
 
 a.btn {
   border: none;
-  background: #c0c0c0;
+  background: #4383bf;
   border-bottom: solid 2px #3875a8;
   color: #fff;
   transition: background 0.2s ease-in-out;
