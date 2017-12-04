@@ -265,7 +265,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #316DA2;
+  background-color: #919191;
   transition: background-color 3ms;
 }
 
@@ -275,7 +275,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #2e5c87;
+  background-color: #5e5e5e;
 }
 
 .sidebar-menu strong {
