@@ -149,7 +149,7 @@ code {
 
 .sidebar-header .moz-logo {
   width: 100%;
-  max-width: 130px;
+  max-width: 200px;
 }
 
 html.no-js .sidebar .collapsible-content {
@@ -216,10 +216,10 @@ html.no-js .sidebar .collapsible-content {
   text-decoration: none;
 }
 
-.sidebar-header .moz-logo {
+/*.sidebar-header .moz-logo {
   width: 100%;
   max-width: 100px;
-}
+}*/
 
 .sidebar-header .glyphicon-menu-hamburger {
   position: absolute;
