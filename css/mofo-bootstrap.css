@@ -642,13 +642,13 @@ a:link {
   font-size: inherit;
   line-height: 1.6rem;
   font-weight: 300;
-  color: #4383bf; }
+  color: #c0c0c0; }
 
 a.button {
   display: inline-block;
   margin: 10px 0 0 0;
   padding: 15px 20px;
-  background: #4383bf;
+  background: #c0c0c0;
   font-size: 1rem;
   line-height: 1;
   color: #fff;
@@ -2332,7 +2332,7 @@ input[type="button"].btn-block {
   border-radius: 0;
   background: #fff;
   border: 1px solid;
-  color: #4383bf;
+  color: #c0c0c0;
   text-transform: uppercase; }
 
 .btn-primary {
