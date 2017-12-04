@@ -1,16 +1,15 @@
 ---
 layout: page
-title: "Intro to Open Leadership"
+title: "Intro to Open Science"
 module: 1
-date: 2016-10-06 14:05:56
+date: 2017-12-04 12:00:00
 contents:
-  - _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
-  - _articles/introduction-to-open-leadership/introduction-to-working-open.md
-  - _articles/introduction-to-open-leadership/understanding-the-project-lead-role.md
-  - _articles/introduction-to-open-leadership/stating-your-project-vision.md
-following: _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
+  - _articles/introduction-to-open-science/what-is-open-science.md
+  - _articles/introduction-to-open-science/barriers-to-open-science.md
+  - _articles/introduction-to-open-science/why-practice-openly.md
+following: _articles/introduction-to-open-science/what-is-open-science.md
 ---
 
-**Before you start this section, be sure to read the Series README file, for information about how this training series is structured, and what you’ll need to begin.**
+**Before you start this section, be sure to read the README file, for information about how this resource is structured, and what you’ll need to begin.**
 
-In this first section in the Open Leadership Series, you’ll learn more about working open and open projects, with the aim of helping you understand how working open can improve your project. You’ll get a sense of what it actually means to lead an open project, and you’ll learn a bit more about Mozilla, the organization that created this training. You’ll also get an introduction to Mozilla’s amazing network of people and projects, which you are welcome to join!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa. Aliquam erat volutpat. Fusce at diam vel metus gravida pulvinar. Proin vitae molestie quam, sit amet ultricies enim. In suscipit, lorem et tempor fringilla, odio nisi rhoncus nisl, vel tincidunt tortor lectus in enim. Proin id dapibus orci, et dictum mauris. In tincidunt interdum orci, vestibulum feugiat tortor commodo quis. Nulla leo lacus, volutpat quis finibus ut, aliquam quis ante. Fusce pharetra eu mauris sed faucibus. Cras a congue lorem, in lacinia tortor. Maecenas accumsan leo iaculis faucibus lobortis.

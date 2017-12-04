@@ -95,7 +95,7 @@ The easiest way to get involved is to join the conversation in our [Gitter chat 
 
 * README.md template by [@KirstieJane/STEMMRoleModels][link_stemm]
 * Code for webpage cloned from [Mozilla Open Leadership Training](https://github.com/mozilla/open-leadership-training-series), License: MIT/CC-BY-4.0
-* Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto))
+* Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto)
 
 
 
