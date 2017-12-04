@@ -2,7 +2,7 @@
   background-image: url("../img/ROSA.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  /* background-size: cover; */
   background-color: #175289;
   text-align: center;
 }
