@@ -1,4 +1,4 @@
-<img src="https://github.com/rainsworth/ROSA/blob/gh-pages/logo/Logo_2.png?raw=true" width="200">
+<img src="https://github.com/rainsworth/ROSA/blob/master/logo/Logo_2.png?raw=true" width="200">
 
 # Resources for Open Science in Astronomy (ROSA)
 
