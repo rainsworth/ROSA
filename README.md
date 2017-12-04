@@ -1,4 +1,4 @@
-<img src="https://github.com/rainsworth/ROSA/blob/gh-pages/logo/Logo_2.png?raw=true" width="200">
+<img src="https://github.com/rainsworth/ROSA/blob/gh-pages/img/ROSA_logo.png?raw=true" width="200">
 
 # Resources for Open Science in Astronomy (ROSA)
 
@@ -37,7 +37,7 @@ The field of astronomy & astrophysics has been very successful in open access of
 * Perceived barriers against working openly such as competition for jobs, the race to publish results or the need to protect intellectual property.
 * A lack of understanding in the community about ***how*** to work in an open way.
 
-As a result, academia can be a closed and stressful environment where imposter syndrome is not uncommon. 
+As a result, academia can be a closed and stressful environment where imposter syndrome is not uncommon.
 
 
 ### A solution
@@ -48,12 +48,12 @@ This project's mission is to:
 
 * Change the culture by
 * Breaking down the perceived barriers against open research and
-* Providing a resource that equips researchers with the tools to work openly from proposal to publication. 
+* Providing a resource that equips researchers with the tools to work openly from proposal to publication.
 
-This project aims to result in two products: 
+This project aims to result in two products:
 
 1. A general open science resource kit that can be adapted to any field, and
-2. One specifically tailored for astronomy: ROSA. 
+2. One specifically tailored for astronomy: ROSA.
 
 The project will be developed here on GitHub so that anyone can contribute resources and tutorials from around the web and it will undergo curation and tailoring to create ROSA. The end product aims to be a well-documented guide on **WHY** you should research openly and **HOW**.
 
@@ -65,33 +65,23 @@ The project will be developed here on GitHub so that anyone can contribute resou
 
 I am Dr. Rachael Ainsworth, a Postdoctoral Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester (Twitter: [@rachaelevelyn][link_rachaelevelyn], GitHub: [@rainsworth][link_rainsworth]). I observe jets from young stars with next-generation radio telescopes to investigate the physical processes that assemble stars like our Sun. I organise a chapter of XX+Data in Manchester (Twitter: [@xxplusdatamcr][link_xxplusdatamcr]), a meetup group to bring together women who work with and love data - to support one another, share experiences and talk data. I am interested in promoting openness and well-being in astronomy/academia.  
 
-  
+
 
 <a href="https://mozilla.github.io/leadership-training/"><img src="https://github.com/mozilla/leadership-training/blob/gh-pages/img/moz-logo-white.png?raw=true" align="right" width="140"></a>
 
 I am also a [Mozilla Open Leader][link_mol] as part of Round 4 Cohort C (#RebelFoxes!) which provides me with the encouragement, mentorship and training to get this project off the ground! You can read more about this round's Cohort and projects [here][link_molprojects].
 
 
-## Get involved! 
+## Get involved!
 
 This project relies on contributions from both the wider astrophysics and open science communities in order to benefit from diversity and range in input - there is no way that a single person can provide a comprehensive enough resource! It will also continuously evolve over time as people use it and more open science tools become available. Not only will the general kit grow over time, but it can also be adapted to suit the needs of different research fields and audiences.
 
 ### Become a contributor
 
-What open access, open data and open source tools from around the web would be useful for a researcher to have at the very start of their career? How can we present this information to senior researchers, who may be less experienced with these tools, so they can promote open research practices to their students and research teams? 
+What open access, open data and open source tools from around the web would be useful for a researcher to have at the very start of their career? How can we present this information to senior researchers, who may be less experienced with these tools, so they can promote open research practices to their students and research teams?
 
 If you have ideas or suggestions for content for this project, please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](ROADMAP.md). Please note that by joining this project, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-### MozFest
-
-Join us at the [Mozilla Festival](http://mozillafestival.org/) October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other - we will discuss and brainstorm what a kit like this should look like and compile content for it. Read more about our [session](https://github.com/MozillaFoundation/mozfest-program-2017/issues/582) and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
-
-<p align="center"><img src="https://user-images.githubusercontent.com/617994/31101135-5b414a02-a79a-11e7-9665-1a8db9ffd1e0.png" width="500"></p>
-
-
-
-
-<br> <br>
 Together, we change the culture of the astronomy community to be more collaborative, iterative and open which is vital in order to pursue answers to fundamental questions about  our Universe and inspire the next generation of researchers in STEM!
 
 
@@ -100,18 +90,12 @@ Together, we change the culture of the astronomy community to be more collaborat
 The easiest way to get involved is to join the conversation in our [Gitter chat room](https://gitter.im/Resources-Open-Science-Astronomy/Lobby)! If you want to directly contribute to this project, make a suggestion or report a problem, [open an issue](../../issues) within this GitHub repository. You can also contact me by email (rachael.ainsworth@manchester.ac.uk) or on Twitter ([@rachaelevelyn][link_rachaelevelyn]).
 
 
+---
 
-## Glossary
 
-* **STEM**: Science, technology, engineering and mathematics
-* **README file**: a document that introduces an open project to the public and any potential contributors
-* **Repository** or **Repo**: a collection of documents related to your project, in which you create and save new code or content
-* **Roadmap**: a document outlining the schedule of work to be done on a project
-* **Milestone**: an event or state marking a specific stage in development on the project
-* **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
-
-(README.md template and Glossary by [@KirstieJane/STEMMRoleModels][link_stemm])
-(Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto))
+* README.md template by [@KirstieJane/STEMMRoleModels][link_stemm]
+* Code for webpage cloned from [Mozilla Open Leadership Training](https://github.com/mozilla/open-leadership-training-series), License: MIT/CC-BY-4.0
+* Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto))
 
 
 
