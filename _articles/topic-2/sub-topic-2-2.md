@@ -3,12 +3,8 @@ layout: page
 title: "Sub-topic 2.2"
 module: "2.2"
 date: 2017-12-04 11:15:00
-time: "45 min"
 following: _articles/topic-3.md
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa."
-prereq: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa."
-format: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa."
-materials: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa."
 ---
 * TOC
 {:toc}

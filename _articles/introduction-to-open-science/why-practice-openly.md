@@ -3,12 +3,8 @@ layout: page
 title: "Why Practice Openly?"
 module: "1.3"
 date: 2017-12-04 11:14:00
-time: "20 mins"
 following: _articles/topic-2.md
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-prereq: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-format: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-materials: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 ---
 * TOC
 {:toc}
