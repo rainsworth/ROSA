@@ -4,7 +4,7 @@ title: "What is Open Science?"
 module: "1.1"
 date: 2017-12-04 11:14:00
 following: _articles/introduction-to-open-science/barriers-to-open-science.md
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "This section presents an introduction to open principles: what is open access, open data, open source - open science?"
 ---
 
 * TOC
@@ -13,12 +13,22 @@ summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 ### What is Open Science?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa. Aliquam erat volutpat. Fusce at diam vel metus gravida pulvinar. Proin vitae molestie quam, sit amet ultricies enim. In suscipit, lorem et tempor fringilla, odio nisi rhoncus nisl, vel tincidunt tortor lectus in enim. Proin id dapibus orci, et dictum mauris. In tincidunt interdum orci, vestibulum feugiat tortor commodo quis. Nulla leo lacus, volutpat quis finibus ut, aliquam quis ante. Fusce pharetra eu mauris sed faucibus. Cras a congue lorem, in lacinia tortor. Maecenas accumsan leo iaculis faucibus lobortis.
+**Open Science** is the practice of science in such a way that others can collaborate and contribute, where research data, codes and other research outputs are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods. In other words, Open Science means making every step of your research process freely available on the Internet in a way that allows anyone to access and use it - promoting collaboration, reproducibility, transparency and inclusion!
 
-Duis sit amet rutrum ligula, ut semper ante. Curabitur porttitor vulputate sapien sit amet eleifend. Donec in purus elit. Pellentesque sed dolor est. Etiam sem libero, viverra vitae enim sit amet, sodales varius dolor. Sed in erat dapibus, sagittis odio et, placerat est. Nullam dignissim justo nibh, at eleifend sapien posuere ut. Sed rhoncus nunc vel purus vulputate aliquet. Proin id libero eu risus tempus vehicula nec ut nisi. Cras vulputate, justo vel rutrum porta, dolor orci dictum enim, eget eleifend massa nibh non dolor. Donec eu lobortis neque. Donec a tincidunt erat. Nam arcu eros, commodo vel cursus a, vulputate ut velit.
+![](/img/openscienceumbrella.png)
 
-Sed convallis felis ac eros consequat hendrerit. Sed lectus urna, facilisis ac turpis vitae, fermentum sodales dui. Duis accumsan non lorem eget dictum. Aenean semper at felis id luctus. Vestibulum facilisis suscipit augue, non fermentum velit aliquam et. Integer elementum nisi at volutpat faucibus. Nam dui ex, mollis sit amet augue in, aliquet placerat erat. Nunc sodales suscipit erat, eget molestie nisl auctor nec. Aenean eget nunc vitae nulla tincidunt fringilla. Maecenas nisi metus, tincidunt et diam non, auctor dapibus sapien. Nunc lacinia turpis erat, nec rhoncus dui vehicula ac. Cras vulputate vehicula turpis ut volutpat. Integer vel mi aliquet, ultricies nulla eget, dictum turpis. Nullam purus ligula, fringilla quis massa ut, auctor pellentesque eros.
+Open Science is an umbrella term for many "open" philosophies and models with the common motivations of sharing freely, preventing duplication, avoiding restrictive (copyright) practices, promoting economic efficiencies and improving access to wide groups of stakeholders.
 
-Mauris congue fringilla congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam ut odio congue est vestibulum dapibus vitae sollicitudin turpis. Curabitur eu ex sit amet nisl commodo porta sed eu felis. Nullam nisi tellus, placerat sit amet enim in, ullamcorper lobortis ex. Nullam fringilla blandit erat. Etiam imperdiet purus quis tempus fringilla.
+* **Open Access** is free, online access to scientific content (such as peer reviewed publications) with limited copyright and licensing restrictions. An example of this in astrophysics is depositing a version of your manuscript on the [arXiv](https://arxiv.org/).
 
-Aenean ut mauris sit amet tortor sodales placerat et iaculis erat. Pellentesque et est tincidunt, fermentum elit ultrices, ultrices odio. Nunc eu faucibus tellus, id vulputate magna. Cras at tincidunt tortor, efficitur tempor augue. Mauris tempor ultricies sapien at malesuada. Nullam commodo ultrices dui fermentum porttitor. Etiam elementum porttitor mi, non cursus dolor vehicula id. Maecenas id eros in nisl laoreet tempus. Donec efficitur varius turpis, in maximus nisl vehicula a. Mauris malesuada orci eget dui laoreet, non tincidunt nunc viverra. Phasellus mollis, justo sit amet iaculis accumsan, nulla ante pellentesque turpis, maximus suscipit nunc turpis non nisl. Praesent erat libero, dapibus laoreet commodo sit amet, posuere non leo. Etiam condimentum vestibulum urna, eu aliquet est sagittis ut. Quisque tempor quis libero ut tempor.
+* **Open Data** is free, online access to data that allows it to be used, reused and distributed provided that the data source is cited. For example, astronomical catalogues and data tables can be published to [VizieR](http://vizier.u-strasbg.fr/).
+
+* **Open Source** Software where the source code is freely available online, with terms that allow dissemination and adaptation. The [astropy](https://github.com/astropy) project on [GitHub](https://github.com/) is an example of open source software in astronomy.
+
+* **Open Educational Resources** are teaching and learning materials that are freely available online for everyone to use - for example, THIS resource!
+
+Open Science also encompasses citizen science (where the general public participates in scientific research such as [Galaxy Zoo](https://www.galaxyzoo.org/)), and promotes equity, diversity and inclusion through making research outputs accessible to all.
+
+---
+
+Definitions of open principles by [FOSTER Open Science](https://www.fosteropenscience.eu) and [Jisc](https://www.jisc.ac.uk/).

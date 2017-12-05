@@ -3,6 +3,8 @@ layout: page
 title: "Glossary"
 ---
 
+This glossary originates from Mozilla's [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/) series (view on their [website](https://mozilla.github.io/open-leadership-training-series/articles/glossary/), [GitHub](https://github.com/mozilla/open-leadership-training-series/blob/gh-pages/_articles/glossary.md); License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)). It will be adapted to include relevant items as this project evolves.
+
 * TOC
 {:toc}
 

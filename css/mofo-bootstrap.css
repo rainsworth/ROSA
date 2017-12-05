@@ -281,7 +281,7 @@ html {
 *::after {
   box-sizing: inherit; }
 
-/* @-moz-viewport {
+@-moz-viewport {
   width: device-width; }
 
 @-ms-viewport {
@@ -294,7 +294,7 @@ html {
   width: device-width; }
 
 @viewport {
-  width: device-width; } */
+  width: device-width; }
 
 html {
   font-size: 16px;
