@@ -10,6 +10,8 @@ contents:
 following: _articles/introduction-to-open-science/what-is-open-science.md
 ---
 
-**Before you start this section, be sure to read the README file, for information about how this resource is structured, and what you’ll need to begin.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa. Aliquam erat volutpat. Fusce at diam vel metus gravida pulvinar. Proin vitae molestie quam, sit amet ultricies enim. In suscipit, lorem et tempor fringilla, odio nisi rhoncus nisl, vel tincidunt tortor lectus in enim. Proin id dapibus orci, et dictum mauris. In tincidunt interdum orci, vestibulum feugiat tortor commodo quis. Nulla leo lacus, volutpat quis finibus ut, aliquam quis ante. Fusce pharetra eu mauris sed faucibus. Cras a congue lorem, in lacinia tortor. Maecenas accumsan leo iaculis faucibus lobortis.
+
+**[Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)** is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods.
+
+Section 1 of this resource presents an introduction to open principles followed by a discussion on the perceived barriers to researching openly. Finally, we hope to break down those barriers by presenting the benefits of open science to both science and researchers. Section 1 will present ***why*** you should research openly and the remaining sections of ROSA will then show you ***how***.
