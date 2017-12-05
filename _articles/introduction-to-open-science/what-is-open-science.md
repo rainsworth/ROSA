@@ -15,7 +15,7 @@ summary: "This section presents an introduction to open principles: what is open
 
 **Open Science** is the practice of science in such a way that others can collaborate and contribute, where research data, codes and other research outputs are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods. In other words, Open Science means making every step of your research process freely available on the Internet in a way that allows anyone to access and use it - promoting collaboration, reproducibility, transparency and inclusion!
 
-![](/img/openscienceumbrella.png)
+![](https://github.com/rainsworth/ROSA/blob/gh-pages/img/openscienceumbrella.png?raw=true)
 
 Open Science is an umbrella term for many "open" philosophies and models with the common motivations of sharing freely, preventing duplication, avoiding restrictive (copyright) practices, promoting economic efficiencies and improving access to wide groups of stakeholders.
 
