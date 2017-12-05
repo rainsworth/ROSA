@@ -72,11 +72,15 @@ Thank you so much to the amazing folks who have already contributed to this proj
 * Currently collaborating with [Chris Hartgerink](https://github.com/chartgerink) on the generalised open science resources for researchers over at [Liberate Science: Now Boarding](https://github.com/libscie/now-boarding)!
 * [Dan Alexandru](https://github.com/xR86)
 * [Monica Granados](https://github.com/Monsauce)
-* Need to add MozFest participants here!
 <br><br>
 * Webpage source code cloned and adapted from: @Mozilla's [Open Leadership Training Series](https://github.com/mozilla/open-leadership-training-series), License: [MIT](https://github.com/mozilla/open-leadership-training-series/blob/gh-pages/LICENSE)/[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 * Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto), License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 * README.md template adapted from [@KirstieJane/STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels), License: [MIT](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/LICENSE.md)
+
+### MozFest
+
+A group of open enthusiasts met in person at [Mozilla Festival](http://mozillafestival.org/) 2017 to collaborate on this project and learn from each other - we discussed and brainstormed what a kit like this should linclude. You can read more about our session "What resources do we need to break down barriers to open science?" [here](https://medium.com/@rainsworth/what-resources-do-we-need-to-break-down-barriers-to-open-science-mozfest-2017-session-recap-bc5562553c72).
+* Need to add list of MozFest participants here!
 
 
 ## Get involved! 
@@ -89,13 +93,6 @@ What open access, open data and open source tools from around the web would be u
 
 If you have ideas or suggestions for content for this project, please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](ROADMAP.md). Please note that by joining this project, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-### MozFest
-
-A group of open enthusiasts met in person at [Mozilla Festival](http://mozillafestival.org/) 2017 to collaborate on this project and learn from each other - we discussed and brainstormed what a kit like this should linclude. You can read more about our session "What resources do we need to break down barriers to open science?" [here](https://medium.com/@rainsworth/what-resources-do-we-need-to-break-down-barriers-to-open-science-mozfest-2017-session-recap-bc5562553c72).
-
-
-
-<br> <br>
 Together, we change the culture of the astronomy community to be more collaborative, iterative and open which is vital in order to pursue answers to fundamental questions about our Universe and inspire the next generation of researchers in STEM!
 
 
