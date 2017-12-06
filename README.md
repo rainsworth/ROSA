@@ -62,7 +62,7 @@ The project will be developed here on GitHub so that anyone can contribute resou
 ## Who am I?
 
 
-I am Rachael Ainsworth, a Postdoctoral Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester (Twitter: [@rachaelevelyn](https://twitter.com/rachaelevelyn), GitHub: [@rainsworth](https://github.com/rainsworth)). I am also a [Mozilla Open Leader](https://mozilla.github.io/leadership-training/) as part of [Round 4 Cohort C](https://mozilla.github.io/leadership-training/round-4/projects/#rebel-foxes-aka-cohort-c) ([#RebelFoxes](https://twitter.com/rachaelevelyn/lists/rebelfoxes)🦊) which provides me with the encouragement, mentorship and training to get this project off the ground! You can read more about this round's Cohort and projects [here](https://medium.com/read-write-participate/meet-our-open-leadership-grads-678bb62667e) and [apply for Round 5](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d) by December 15th!.
+I am Rachael Ainsworth, a Postdoctoral Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester (Twitter: [@rachaelevelyn](https://twitter.com/rachaelevelyn), GitHub: [@rainsworth](https://github.com/rainsworth)). I am also a [Mozilla Open Leader](https://mozilla.github.io/leadership-training/) as part of [Round 4 Cohort C](https://mozilla.github.io/leadership-training/round-4/projects/#rebel-foxes-aka-cohort-c) ([#RebelFoxes](https://twitter.com/rachaelevelyn/lists/rebelfoxes)🦊) which provides me with the encouragement, mentorship and training to get this project off the ground! You can read more about this round's Cohort and projects [here](https://medium.com/read-write-participate/meet-our-open-leadership-grads-678bb62667e) and [apply for Round 5](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d) by December 15th!
 
 
 ## Contributors, collaborators and credits
@@ -74,7 +74,7 @@ Thank you so much to the amazing folks who have already contributed to this proj
 * [Dan Alexandru](https://github.com/xR86)
 * [Monica Granados](https://twitter.com/Monsauce)
 <br><br>
-* Webpage source code cloned and adapted from: @Mozilla's [Open Leadership Training Series](https://github.com/mozilla/open-leadership-training-series), License: [MIT](https://github.com/mozilla/open-leadership-training-series/blob/gh-pages/LICENSE)/[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+* Webpage source code cloned and adapted from: Mozilla's [Open Leadership Training Series](https://github.com/mozilla/open-leadership-training-series), License: [MIT](https://github.com/mozilla/open-leadership-training-series/blob/gh-pages/LICENSE)/[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 * Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto), License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 * README.md template adapted from [@KirstieJane/STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels), License: [MIT](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/LICENSE.md)
 <br><br>
