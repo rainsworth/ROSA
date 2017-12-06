@@ -20,6 +20,7 @@ Here you will find information about the project and how to get involved!
 * [Contributors, collaborators and credits](#contributors-collaborators-and-credits)
 * [Get involved!](#get-involved)
 * [Contact](#contact)
+* [License](#license)
 
 ## Project description
 
@@ -61,26 +62,48 @@ The project will be developed here on GitHub so that anyone can contribute resou
 ## Who am I?
 
 
-I am Rachael Ainsworth, a Postdoctoral Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester (Twitter: [@rachaelevelyn](https://twitter.com/rachaelevelyn), GitHub: [@rainsworth](https://github.com/rainsworth)). I am also a [Mozilla Open Leader](https://mozilla.github.io/leadership-training/) as part of Round 4 Cohort C (#RebelFoxes🦊) which provides me with the encouragement, mentorship and training to get this project off the ground! You can read more about this round's Cohort and projects [here](https://mozilla.github.io/leadership-training/round-4/projects/) and [apply for Round 5](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d) by December 15th!.
+I am Rachael Ainsworth, a Postdoctoral Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester (Twitter: [@rachaelevelyn](https://twitter.com/rachaelevelyn), GitHub: [@rainsworth](https://github.com/rainsworth)). I am also a [Mozilla Open Leader](https://mozilla.github.io/leadership-training/) as part of [Round 4 Cohort C](https://mozilla.github.io/leadership-training/round-4/projects/#rebel-foxes-aka-cohort-c) ([#RebelFoxes](https://twitter.com/rachaelevelyn/lists/rebelfoxes)🦊) which provides me with the encouragement, mentorship and training to get this project off the ground! You can read more about this round's Cohort and projects [here](https://medium.com/read-write-participate/meet-our-open-leadership-grads-678bb62667e) and [apply for Round 5](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d) by December 15th!.
 
 
 ## Contributors, collaborators and credits
 
 Thank you so much to the amazing folks who have already contributed to this project! Below is the list of contributors/collaborators who have contributed directly to the project GitHub repo, commented on/opened an issue, and/or participated in our discussion at MozFest, as well as attribution for reuse of other open source projects!
 
-* A special thank you to my mentor [Bastian Greshake Tzovaras](https://github.com/gedankenstuecke) for his support, advice and encouragement throughout the Mozilla Open Leaders program!
-* Currently collaborating with [Chris Hartgerink](https://github.com/chartgerink) on the generalised open science resources for researchers over at [Liberate Science: Now Boarding](https://github.com/libscie/now-boarding)!
+* A special thank you to my mentor [Bastian Greshake Tzovaras](https://twitter.com/gedankenstuecke) for his support, advice and encouragement throughout the Mozilla Open Leaders program!
+* Currently collaborating with [Chris Hartgerink](https://twitter.com/chartgerink) on the generalised open science resources for researchers over at [Liberate Science: Now Boarding](https://github.com/libscie/now-boarding)!
 * [Dan Alexandru](https://github.com/xR86)
-* [Monica Granados](https://github.com/Monsauce)
+* [Monica Granados](https://twitter.com/Monsauce)
 <br><br>
 * Webpage source code cloned and adapted from: @Mozilla's [Open Leadership Training Series](https://github.com/mozilla/open-leadership-training-series), License: [MIT](https://github.com/mozilla/open-leadership-training-series/blob/gh-pages/LICENSE)/[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 * Logo contributed by: [@PaulaAsto](https://github.com/PaulaAsto), License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 * README.md template adapted from [@KirstieJane/STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels), License: [MIT](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/LICENSE.md)
+<br><br>
+* [List of contributors on GitHub](https://github.com/rainsworth/ROSA/network/members)
 
 ### MozFest
 
-A group of open enthusiasts met in person at [Mozilla Festival](http://mozillafestival.org/) 2017 to collaborate on this project and learn from each other - we discussed and brainstormed what a kit like this should linclude. You can read more about our session "What resources do we need to break down barriers to open science?" [here](https://medium.com/@rainsworth/what-resources-do-we-need-to-break-down-barriers-to-open-science-mozfest-2017-session-recap-bc5562553c72).
-* Need to add list of MozFest participants here!
+A group of open enthusiasts met in person at [Mozilla Festival](http://mozillafestival.org/) 2017 to collaborate on this topic and learn from each other - we discussed and brainstormed what a kit like this should linclude. You can read more about our session "What resources do we need to break down barriers to open science?" [here](https://medium.com/@rainsworth/what-resources-do-we-need-to-break-down-barriers-to-open-science-mozfest-2017-session-recap-bc5562553c72). Thank you to eveyone for sharing their insight and experience!
+
+* [Marcos Vital](https://twitter.com/marcosvcvital)
+* [Miriam Tresh](https://twitter.com/Miriam_Tresh)
+* Æluncrombie
+* [Tomas Petricek](https://twitter.com/tomaspetricek)
+* [Timothée Poisot](https://twitter.com/tpoi)
+* [Monica Granados](https://twitter.com/Monsauce)
+* [Alexander Morley](https://twitter.com/alex__morley)
+* Luka Banović
+* [Patricia Herterich](https://twitter.com/PHerterich)
+* [Achintya Rao](https://twitter.com/RaoOfPhysics)
+* [Bastian Greshake Tzovaras](https://twitter.com/gedankenstuecke)
+* [Frank Norman](https://twitter.com/franknorman)
+* [Chris Hartgerink](https://twitter.com/chartgerink)
+* [Egle Ramanauskaite](https://twitter.com/Seplute)
+* William Thong
+* [Yo Yehudi](https://twitter.com/yoyehudi)
+* [Sonia Ali](https://twitter.com/soniainateacup)
+* [Naomi Penfold](https://twitter.com/npscience)
+
+
 
 
 ## Get involved! 
@@ -100,3 +123,7 @@ Together, we change the culture of the astronomy community to be more collaborat
 
 The easiest way to get involved is to join the conversation in our [Gitter chat room](https://gitter.im/Resources-Open-Science-Astronomy/Lobby)! If you want to directly contribute to this project, make a suggestion or report a problem, [open an issue](../../issues) within this GitHub repository. You can also contact me by email (rachael.ainsworth@manchester.ac.uk) or on Twitter ([@rachaelevelyn](https://twitter.com/rachaelevelyn)).
 
+
+## License
+
+Non-software content in this project is licensed under a [CC-BY 4.0](LICENSE) license.
