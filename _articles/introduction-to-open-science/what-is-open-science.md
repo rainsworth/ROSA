@@ -11,7 +11,7 @@ summary: "This section presents an introduction to open principles: what is open
 {:toc}
 
 
-### What is Open Science?
+### Introduction to Open Principles
 
 **Open Science** is the practice of science in such a way that others can collaborate and contribute, where research data, codes and other research outputs are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods. In other words, Open Science means making every step of your research process freely available on the Internet in a way that allows anyone to access and use it - promoting collaboration, reproducibility, transparency and inclusion!
 
@@ -27,7 +27,9 @@ Open Science is an umbrella term for many "open" philosophies and models with th
 
 * **Open Educational Resources** are teaching and learning materials that are freely available online for everyone to use - for example, THIS resource!
 
-Open Science also encompasses citizen science (where the general public participates in scientific research such as [Galaxy Zoo](https://www.galaxyzoo.org/)), and promotes equity, diversity and inclusion through making research outputs accessible to all.
+* **Citizen Science** is research that involves the participation of and contributions by the general public, projects like [Galaxy Zoo](https://www.galaxyzoo.org/) for example.
+
+* **Equity, Diversity and Inclusion** is the most important aspect of the Open Movement  through making research outputs accessible to all. Open will mean different things to different communities, so it is extremely important to consider inherent biases in your research projects and how that will affect your results and accessibility to them.  [Zooniverse](http://www.astro4dev.org/blog/2015/12/18/update-12/) has worked to achieve a greater diversity of citizen scientists participating in their project by improving translation tools, adding accessibility functionality, creating a project directly connected to Africa and building a site with a meaningful scientific contribution to the developing world.
 
 ---
 
