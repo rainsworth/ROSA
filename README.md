@@ -105,7 +105,6 @@ A group of open enthusiasts met in person at [Mozilla Festival](http://mozillafe
 
 
 
-
 ## Get involved! 
 
 This project relies on contributions from both the wider astrophysics and open science communities in order to benefit from diversity and range in input - there is no way that a single person can provide a comprehensive enough resource! It will also continuously evolve over time as people use it and more open science tools become available. Not only will the general kit grow over time, but it can also be adapted to suit the needs of different research fields and audiences.
@@ -117,6 +116,14 @@ What open access, open data and open source tools from around the web would be u
 If you have ideas or suggestions for content for this project, please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](ROADMAP.md). Please note that by joining this project, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 Together, we change the culture of the astronomy community to be more collaborative, iterative and open which is vital in order to pursue answers to fundamental questions about our Universe and inspire the next generation of researchers in STEM!
+
+
+### MozSprint
+
+Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
+
+![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
+
 
 
 ## Contact
