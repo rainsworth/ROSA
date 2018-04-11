@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Topic 2"
+title: "Topic"
 module:
 date: 2017-12-04 11:13:00
 contents:

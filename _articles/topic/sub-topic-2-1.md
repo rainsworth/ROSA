@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sub-topic 1"
-module: ""
+module: 
 date: 2017-12-04 11:14:00
 following: _articles/topic-2/sub-topic-2-2.md
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa."

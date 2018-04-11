@@ -1,15 +1,12 @@
 ---
 layout: page
 title: "Barriers to Open Science"
-module: "1.2"
+module: 1.2
 date: 2017-12-04 11:14:00
 following: _articles/introduction-to-open-science/why-practice-openly.md
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 ---
-* TOC
-{:toc}
 
-### Barriers to Open Science
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa. Aliquam erat volutpat. Fusce at diam vel metus gravida pulvinar. Proin vitae molestie quam, sit amet ultricies enim. In suscipit, lorem et tempor fringilla, odio nisi rhoncus nisl, vel tincidunt tortor lectus in enim. Proin id dapibus orci, et dictum mauris. In tincidunt interdum orci, vestibulum feugiat tortor commodo quis. Nulla leo lacus, volutpat quis finibus ut, aliquam quis ante. Fusce pharetra eu mauris sed faucibus. Cras a congue lorem, in lacinia tortor. Maecenas accumsan leo iaculis faucibus lobortis.
 

@@ -1,14 +1,12 @@
 ---
 layout: page
 title: "What is Open Science?"
-module: "1.1"
+module: 1.1
 date: 2017-12-04 11:14:00
 following: _articles/introduction-to-open-science/barriers-to-open-science.md
 summary: "This section presents an introduction to open principles: what is open access, open data, open source - open science?"
 ---
 
-* TOC
-{:toc}
 
 
 ### Introduction to Open Principles
