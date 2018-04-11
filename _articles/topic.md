@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Topic 2"
-module: ""
+module:
 date: 2017-12-04 11:13:00
 contents:
-  - _articles/topic-2/sub-topic-2-1.md
-  - _articles/topic-2/sub-topic-2-2.md
+  - _articles/topic/sub-topic-2-1.md
+  - _articles/topic/sub-topic-2-2.md
 following: _articles/topic-2/sub-topic-2-1.md
 ---
 
