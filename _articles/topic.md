@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Topic 2"
-module: "2"
+module: ""
 date: 2017-12-04 11:13:00
 contents:
   - _articles/topic-2/sub-topic-2-1.md

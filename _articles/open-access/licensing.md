@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Licensing"
-module: "2.1"
+module: 2.1
 date: 2017-12-04 11:14:00
 following: _articles/open-access/arxiv.md
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa."

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Open Access"
-module: "2"
+module: 2
 date: 2018-04-11 15:28:00
 contents:
   - _articles/topic-2/licensing.md
@@ -10,7 +10,6 @@ contents:
 following: _articles/open-access/licensing.md
 ---
 
-# Open Access
 
 Open Access refers to online, free of cost access to research outputs, such as publications, with limited copyright and licensing restrictions so that anyone may read and reuse that research.
 
@@ -21,7 +20,7 @@ Further major drivers behind Open Access relate to equality within and between c
 
 Open Access has been demonstrated to benefit researchers, science and society. Some of the benefits of Open Access are highlighted in the figure below.
 
-[![Benefits of Open Access](../img/benefits-of-oa-new.jpg)](https://aoasg.files.wordpress.com/2013/02/cc-by_logo.png)
+![Benefits of Open Access](../img/benefits-of-oa-new.jpg)
 
 These benefits have led to many funders now requiring outputs of the research they fund to be made available open access. For example, the [European Commission](http://ec.europa.eu/programmes/horizon2020/node/1031) requires all projects receiving Horizon 2020 funding to make sure that any peer-reviewed journal article they publish is open access to optimise the impact of publicly-funded scientific research.
 
