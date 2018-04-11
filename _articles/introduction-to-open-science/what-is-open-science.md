@@ -31,6 +31,5 @@ Open Science is an umbrella term for many "open" philosophies and models with th
 
 * **Equity, Diversity and Inclusion** is the most important aspect of the Open Movement  through making research outputs accessible to all. Open will mean different things to different communities, so it is extremely important to consider inherent biases in your research projects and how that will affect your results and accessibility to them.  [Zooniverse](http://www.astro4dev.org/blog/2015/12/18/update-12/) has worked to achieve a greater diversity of citizen scientists participating in their project by improving translation tools, adding accessibility functionality, creating a project directly connected to Africa and building a site with a meaningful scientific contribution to the developing world.
 
----
 
-Definitions of open principles by [FOSTER Open Science](https://www.fosteropenscience.eu) and [Jisc](https://www.jisc.ac.uk/).
+<sub>Definitions of open principles by [FOSTER Open Science](https://www.fosteropenscience.eu) and [Jisc](https://www.jisc.ac.uk/).</sub>
