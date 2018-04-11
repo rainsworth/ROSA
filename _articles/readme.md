@@ -43,4 +43,6 @@ This project's mission is to:
 This resource consists of # sections, each containing information on a topic related to working open. The # sections are:
 
 1. [Introduction to Open Science]({{ site.baseurl }}/articles/introduction-to-open-science)
-2. [Topic 2]({{ site.baseurl }}/articles/topic-2)
+2. [Open Access]({{ site.baseurl }}/articles/open-access)
+3. [Open Data]({{ site.baseurl }}/articles/open-data)
+4. [Open Source]({{ site.baseurl }}/articles/open-source)
