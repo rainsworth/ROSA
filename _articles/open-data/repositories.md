@@ -4,7 +4,7 @@ title: "Repositories"
 module: 3.1
 date: 2018-05-10 11:14:00
 following: _articles/open-data/data-management-plans.md
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada varius massa."
+summary: ""
 ---
 
 Repositories are online databases for information storage, such that information remains accessible into the future. Some repositories limit themselves to a specific type of information; for example data (see also [re3data.org](https://re3data.org)). Other repositories have fewer limits on the types of information they archive, just as long as the files aren't too large ([Zenodo](https://zenodo.org) offers a 50 GB upload limit, for example).
